@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cucumber-sample-framework.iml" filepath="$PROJECT_DIR$/cucumber-sample-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InarAcademyCucumberFramework.iml" filepath="$PROJECT_DIR$/InarAcademyCucumberFramework.iml" />
     </modules>
   </component>
 </project>
